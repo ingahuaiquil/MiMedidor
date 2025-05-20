@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiMedidor</string>
+    <string name="agregar">Agregar</string>
+    <string name="valor">Valor</string>
+    <string name="fecha">Fecha</string>
+    <string name="guardar">Guardar</string>
+</resources>
